@@ -1,1 +1,1 @@
-# ECE250Lab1
+# ECE250Labs Data Structure and Algorithms
